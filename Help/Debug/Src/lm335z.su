@@ -1,0 +1,4 @@
+lm335z.c:18:6:lm335z_init	8	static
+lm335z.c:22:6:lm335z_start_convert	8	static
+lm335z.c:32:6:get_volt	16	static
+lm335z.c:38:6:get_temp	8	static

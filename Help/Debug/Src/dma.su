@@ -1,0 +1,5 @@
+core_cm0.h:623:22:__NVIC_EnableIRQ	16	static
+core_cm0.h:730:22:__NVIC_SetPriority	24	static
+dma.c:10:6:DMA1_CH1_IRQHandler	8	static
+dma.c:17:6:dma_adc	16	static
+dma.c:37:6:dma_usart2_tx	16	static

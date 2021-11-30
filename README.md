@@ -1,1 +1,0 @@
-# Course_project_temp_senser

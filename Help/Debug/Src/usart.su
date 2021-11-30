@@ -1,0 +1,4 @@
+usart.c:12:6:usart_gpio_init	8	static
+usart.c:20:6:usart_init	16	static
+usart.c:36:6:usart_start	8	static
+usart.c:44:6:send_data	24	static

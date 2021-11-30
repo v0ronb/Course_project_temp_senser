@@ -1,0 +1,3 @@
+ds18b20.c:19:6:conversion_to_real	8	static
+ds18b20.c:25:6:sending_data_ds18b20	8	static
+ds18b20.c:35:6:ds18b20_Init_Work	8	static

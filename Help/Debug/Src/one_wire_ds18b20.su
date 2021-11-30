@@ -1,0 +1,8 @@
+one_wire_ds18b20.c:14:16:reset_ds18	8	static
+one_wire_ds18b20.c:34:13:write_ds18	24	static
+one_wire_ds18b20.c:54:17:read_ds18	32	static
+one_wire_ds18b20.c:71:6:ds18b20_Init	16	static
+one_wire_ds18b20.c:83:10:ds18b20_GetTemperature	16	static
+one_wire_ds18b20.c:94:6:ds18b20_StartMeas	8	static
+one_wire_ds18b20.c:102:6:ds18b20_SkipRom	8	static
+one_wire_ds18b20.c:106:9:ds18b20_isConversion	8	static

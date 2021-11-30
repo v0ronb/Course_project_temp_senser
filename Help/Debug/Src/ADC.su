@@ -1,0 +1,4 @@
+ADC.c:14:6:TIM15_init_TRG0	8	static
+ADC.c:23:6:ADC_config	8	static
+ADC.c:42:6:start_convert	8	static
+ADC.c:53:10:ADC_SR	16	static
